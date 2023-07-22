@@ -1,0 +1,13 @@
+body{
+    align-content:center;
+    background-color:aquamarine;
+}
+
+h1{
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color:darkseagreen;
+}
+.para{
+    color:hotpink;
+    font-family:'Times New Roman', Times, serif;
+}

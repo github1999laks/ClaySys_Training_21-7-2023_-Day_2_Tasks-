@@ -1,0 +1,54 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+form {
+    background-color: #ffffff;
+    padding: 20px;
+    border-radius: 30px;
+    box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.3);
+    max-width: 350px;
+    width: 200%;
+    text-align: center;
+    box-shadow: 0 20px 10px 0 rgba(0, 0, 0, 0.2), 0 2px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.login_head {
+    background-color: blueviolet;
+    color: white;
+    font-family: Cambria, Cochin, Georgia, Times, Times New Roman, serif;
+    font-family: 'Times New Roman', Times, serif;
+}
+.inputs input[type="text"],
+.inputs input[type="password"] {
+    border-radius: 50px;
+    border-color: azure;
+    align-items: center;
+    text-align: center;
+    width: 90%;
+    height: 4%;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+}
+
+.login input[type="button"] {
+    border-radius: 50px;
+    align-items: center;
+    text-align: center;
+    width: 80%;
+    height: 4%;
+    background-color: mediumorchid;
+    cursor: pointer;
+    color: white;
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.forgot {
+    font-family: 'Times New Roman', Times, serif;
+}
+
+label {
+    font-family: 'Times New Roman', Times, serif;
+}
